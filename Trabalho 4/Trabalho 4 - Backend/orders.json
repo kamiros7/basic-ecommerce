@@ -1,0 +1,10 @@
+[
+    {
+        "order_id": 1,
+        "item": "Keyboard Akko",
+        "quantity": 1,
+        "client_id": 1,
+        "stock_id": 1,
+        "status": "delivery_sent"
+    }
+]

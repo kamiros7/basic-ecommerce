@@ -1,0 +1,32 @@
+<!--
+     Para executar, apenas rodar o index.html no navegador e dar um reload quando
+    o serviço de notificação estiver exceutando
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSE Notifications</title>
+    <style>
+        #notifications {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .notification {
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>SSE Notifications</h1>
+    <div id="notifications">
+        <p>No notifications yet...</p>
+    </div>
+    <script src="sse-client.js"></script>
+</body>
+</html>

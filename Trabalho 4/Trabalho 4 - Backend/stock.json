@@ -1,0 +1,37 @@
+[
+    {
+        "stock_id": 1,
+        "item": "Laptop",
+        "quantity": 4
+    },
+    {
+        "stock_id": 2,
+        "item": "Phone",
+        "quantity": 2
+    },
+    {
+        "stock_id": 3,
+        "item": "Mouse",
+        "quantity": 3
+    },
+    {
+        "stock_id": 4,
+        "item": "Keyboard",
+        "quantity": 1
+    },
+    {
+        "stock_id": 5,
+        "item": "Headphones",
+        "quantity": 2
+    },
+    {
+        "stock_id": 6,
+        "item": "Mouse Gamer",
+        "quantity": 2
+    },
+    {
+        "stock_id": 7,
+        "item": "Mouse Gamer Razer",
+        "quantity": 2
+    }
+]
